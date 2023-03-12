@@ -4,7 +4,7 @@
 
 # 1. Business Problem
 
-Description
+**Description**
 
 --- 
 
@@ -13,3 +13,17 @@ Description
 1. Each diagnosis costs about $1000,00.
 2. The price will vary according to the precision: the customer pays $500.00 for every 5% accuracy above 50%.
 3. If the diagnostic precision is 50% or below, the customer doesn't pay for it.
+
+**Purpose**
+
+---
+
+We must incease the diagnosis precision and make it more stable. To do it, we built a classification model to predict the cardiovascular diseases. 
+
+**Business Questions**
+
+--- 
+
+1. What are the accuracy and the precision of the model? 
+2. How much profit will Cardio Catch Disease have after the project? 
+3. How reliable is our result?
