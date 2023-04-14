@@ -30,7 +30,7 @@ We must incease the diagnosis precision and make it more stable. To do it, we bu
 
 # 2. Business Assumptions (Formulated Hypotheses)
 
-The following hypotheses (questions in this case) were formulated in order to be tested/answered:
+The following hypotheses (or questions) were formulated in order to be tested/answered:
 
 **H1.** There are less cases of heart diseases among young people (up to 30s).
 
