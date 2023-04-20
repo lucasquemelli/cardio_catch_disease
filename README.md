@@ -8,7 +8,7 @@
 
 --- 
 
-**Cadio Catch Disease** is a company whose business model is detecting heart disease in the early stages.The company offers an early diagnosis of cardiovascular disease for a certain price. Currently, the diagosis is has been made manually. The current accuracy is between 55% and 60%, because of the complex diagnosis and the team's fatigue. We must know:
+**Cadio Catch Disease** is a company whose business model is detecting heart disease in the early stages.The company offers an early diagnosis of cardiovascular disease for a certain price. Currently, the diagosis has been made manually. The current accuracy is between 55% and 60%, because of the complex diagnosis and the team's fatigue. We must know:
 
 1. Each diagnosis costs about $1000,00.
 2. The price will vary according to the precision: the customer pays $500.00 for every 5% accuracy above 50%.
