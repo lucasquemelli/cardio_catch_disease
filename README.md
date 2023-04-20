@@ -91,3 +91,15 @@ The following hypotheses (or questions) were formulated in order to be tested/an
 **H8.** The are more cases of heart diseases for people who intakes alcohol than for people who do not.
 
 **FALSE.** There are more cases for people who do not intake alcohol. Additionally, they are slightly more prone to have heart disease.
+
+# 5. Business Results
+
+Random Forest Classifier predicts propensity to heart disease with 72.16 % of average precision. It results in a minimum of USD 2000,00 of profit, which is better than USD 1500,00 as the maximum profit for the current diagnosis.
+
+# 6. Conclusions
+
+By using a Machine Learning model to predict heart diseases, we would improve the minimum revenue from 0 to 2000 dollars for every diagnosis.
+
+# 7. Next Steps
+
+Understanding why LGBM Classifier could not work and try to train this model in order to improve the precision. 
