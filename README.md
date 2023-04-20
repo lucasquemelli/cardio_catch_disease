@@ -53,3 +53,41 @@ The following hypotheses (or questions) were formulated in order to be tested/an
 **H10.** How are the cases of heart diseases distributed among systolic blood pressures?
 
 **H11.** How are the cases of heart diseases distributed among diastolic blood pressures?
+
+# 3. Solution Strategy
+
+**Step 01 - Data Description:** cleaning data, changing data type, treating missing values, check balance of data, and descriptive statistics.
+
+**Step 02 - Feature Engineering:** creating new features that may better explain the phenomenon.
+
+**Step 03 - Feature Filtering and Selection:** rows filtering and columns selection.
+
+**Step 04 - Exploratory Data Analysis (EDA):** univariate analysis, bivariate analysis (hypotheses test) and multivariate analysis.
+
+**Step 05 - Data Preprocessing:** rescaling, encoding and transformation.
+
+**Step 06 - Feature Selection:** removing high correlated features and using Boruta algorihtm with Random Forest Regressor to select the most relevant features.
+
+**Step 07 - Machine Learning Modelling:** testing and comparing Machine Learning models.
+
+**Step 08 - Hyperparameter Fine Tuning:** determining the parameters which maximize the model learning.
+
+**Step 09 - Business Performance:** translating the results into business.
+
+# 4. Top 4 Data Insights
+
+**H2.** The cases of heart diseases does not significantly depend on the height.
+
+**FALSE.** Smallers people are more prone to have heart diseases.
+
+**H4.** The cases of heart diseases does not significantly depend on the gender.
+
+**FALSE.** We have higher volume of female with heart disease. Additionally, female people are more prone to have heart disease.
+
+**H7.** The are more cases of heart diseases for people who smokes than for people who do not.
+
+**FALSE.** There are much more cases for people who do not smoke. Additionally, people who do not smoke are slightly more prone to have heart disease.
+
+**H8.** The are more cases of heart diseases for people who intakes alcohol than for people who do not.
+
+**FALSE.** There are more cases for people who do not intake alcohol. Additionally, they are slightly more prone to have heart disease.
